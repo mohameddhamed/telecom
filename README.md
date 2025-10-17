@@ -6,14 +6,14 @@ Welcome! This repository contains a series of hands-on Python networking exercis
 
 The learning process is structured to help you learn effectively without accidentally spoiling the solutions.
 
-**1. The `main` Branch (In Progress 🚧)**
+**1. The `main` Branch**
 
 This is the primary branch for working on the exercises. It contains:
 - A folder for each practice session.
 - `_todo.py` files with the exercise code you need to complete.
 - A `README.md` in each folder explaining the objective and how to run the code.
 
-**2. The `solutions` Branch (In Progress 🚧)**
+**2. The `solutions` Branch**
 
 This branch contains all the completed `_solution.py` files.
 - **IMPORTANT:** Try your very best to solve the exercise yourself before looking at the solution!
