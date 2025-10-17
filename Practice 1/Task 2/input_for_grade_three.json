@@ -1,0 +1,5 @@
+{
+    "homework": { "max": 4, "received": 2, "min": 0.5 },
+    "zh": { "max": 10, "min": 0.5 },
+    "mininet": { "max": 100, "received": 76, "min": 0.5 }
+}
